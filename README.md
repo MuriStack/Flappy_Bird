@@ -1,2 +1,2 @@
 # C-Unity
-Codes/Functions in Unity with C#
+Codes/Functions in C# with Unity
