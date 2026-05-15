@@ -1,3 +1,6 @@
+///seila///
+///aqui é melhor do que ali///
+
 using UnityEngine;
 
 public class OperadoresRelacionais : MonoBehaviour
